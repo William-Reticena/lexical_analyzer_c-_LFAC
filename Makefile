@@ -4,4 +4,3 @@ all:
 	gcc -g -c ./modules/utils/utils.c
 	gcc -o main *.o
 	rm *.o
-	./main

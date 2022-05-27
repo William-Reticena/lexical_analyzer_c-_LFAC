@@ -8,7 +8,7 @@ char *load_file_memory(char *file_name) {
   memset(buffer, '\0', sizeof(buffer));
 
   if (file == NULL) {
-    printf("Não falhou na abertura\n");
+    printf("Falhou na abertura\n");
     return NULL;
   }
 

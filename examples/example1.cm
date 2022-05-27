@@ -1,3 +1,13 @@
 int main(void) {
+	float i = 4.54555;
+
+	if (j != k) {
+		i = 2;
+	}
+
+	while (j > k) {
+		int g = 2545654612348564;
+	}
+
 	return(0);
 }
